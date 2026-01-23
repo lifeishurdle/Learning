@@ -1,0 +1,2 @@
+先git config --global user.email设置邮箱（不仅作为commit标识，也是push的收件人）
+obsidian的markdown语法是独有格式，需要在设置>文件与链接>更改内部连接类型为基于当前笔记的相对路径，关闭使用wiki链接；这样push到github才能正确显示文件（eg. 图片）

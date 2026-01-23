@@ -128,3 +128,5 @@ Q 2: LLM存在位置偏好(bias)，有时无脑选第一个
 这里的评分不是指打分，而是如上图中0 or 1的评估
 ### Generation
 ## Lesson-6 Using external feedback
+![[attachments/Pasted image 20260122231226.png]]
+![](attachments/Pasted%20image%2020260122232100.png)
