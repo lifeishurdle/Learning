@@ -49,7 +49,7 @@
           div.textContent = item.title
           div.onclick = () => {
             viewer.src =
-              `pdfjs-dist-5.4.624/web/index.html?file=${encodeURIComponent(item.file)}`
+              `pdfjs-5.4.624-legacy-dist/web/viewer.html?file=${encodeURIComponent(item.file)}`
           }
           list.appendChild(div)
         })
