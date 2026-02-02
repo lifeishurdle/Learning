@@ -49,7 +49,8 @@
           div.textContent = item.title
           div.onclick = () => {
             viewer.src =
-              `pdfjs-dist-5.4.624/web/viewer.html?file=../${item.file}`
+              `pdfjs/web/index.html?file=../${item.file}`
+
           }
           list.appendChild(div)
         })
