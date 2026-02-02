@@ -1,14 +1,26 @@
 [
   {
+    "title": "新概念交互式pdf",
+    "file": "Lerning/new_concept/new_concept_interactive.pdf"
+  },
+{
     "title": "新概念一",
-    "file": "新概念/新概念英语 1 课堂笔记&课后练习.pdf"
+    "file": "Lerning/new_concept_/new_concept_1.pdf"
   },
   {
     "title": "Python基础",
-    "file": "Python/Python编程  从入门到实践 = Python Crash Course (Eric Matthes) (Z-Library).pdf"
+    "file": "Lerning/Python/Python_Crash_Course.pdf"
   },
   {
     "title": "Python数据结构与算法",
-    "file": "Python/Python数据结构与算法分析 第3版 (米勒 拉努姆 罗曼) (Z-Library).pdf"
-  }
+    "file": "Lerning/Python/Python_DS_version3.pdf"
+  },
+{
+    "title": "progit",
+    "file": "Lerning/Python/progit/progit.pdf"
+  },
+{
+    "title": "progit中文",
+    "file": "Lerning/Python/progit/progit_zh.pdf"
+  },
 ]
