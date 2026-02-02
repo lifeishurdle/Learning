@@ -1,26 +1,27 @@
 [
   {
     "title": "新概念交互式pdf",
-    "file": "Lerning/new_concept/new_concept_interactive.pdf"
+    "file": "/Learning/new_concept/new_concept_interactive.pdf"
   },
-{
+  {
     "title": "新概念一",
-    "file": "Lerning/new_concept_/new_concept_1.pdf"
+    "file": "/Learning/new_concept/new_concept_1.pdf"
   },
   {
     "title": "Python基础",
-    "file": "Lerning/Python/Python_Crash_Course.pdf"
+    "file": "/Learning/Python/Python_Crash_Course.pdf"
   },
   {
     "title": "Python数据结构与算法",
-    "file": "Lerning/Python/Python_DS_version3.pdf"
+    "file": "/Learning/Python/Python_DS_version3.pdf"
   },
-{
+  {
     "title": "progit",
-    "file": "Lerning/Python/progit/progit.pdf"
+    "file": "/Learning/Python/progit/progit.pdf"
   },
-{
+  {
     "title": "progit中文",
-    "file": "Lerning/Python/progit/progit_zh.pdf"
+    "file": "/Learning/Python/progit/progit_zh.pdf"
   }
 ]
+
