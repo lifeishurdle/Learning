@@ -1,6 +1,6 @@
 > 课程地址：https://learn.deeplearning.ai/courses/agentic-ai/lesson/zqs9ty
 
-# Module 1
+# Module 1 Introduction
 ## Lesson 2-What is agent AI
 ### 无代理性工作流
 ![](attachments/1.png)
@@ -84,7 +84,7 @@ PS：但实际上LLM并不擅长这种1-5分的评分标准
 ![](attachments/Pasted%20image%2020260115164402.png)
 Q：多模型各自扮演的角色难以决定
 
-# Module 2
+# Module 2 Reflection design pattern
 ## Lesson 1-Reflection to improve outputs of a task
 ### Reflection-humans
 ![](attachments/Pasted%20image%2020260115191306.png)
@@ -127,4 +127,20 @@ Q 2: LLM存在位置偏好(bias)，有时无脑选第一个
 ![[attachments/Pasted image 20260121230548.png]]
 这里的评分不是指打分，而是如上图中0 or 1的评估
 ### Generation
+![](attachments/Pasted%20image%2020260203051122.png)
 ## Lesson-6 Using external feedback
+### Return on investment on prompt engineering
+![](attachments/Pasted%20image%2020260203051520.png)
+### Reflection with external feedback
+![](attachments/Pasted%20image%2020260203051649.png)
+### Other examples of tools to help reflection
+![](attachments/Pasted%20image%2020260203052126.png)
+# Module 3 Tool use
+## Lesson-1 What are tools?
+> LLM永远不会执行tool，执行tool的是你自己，它只会返回结构化文本：如果不借助框架则要自己搭建这个——构建文本——解析LLM返回文本（如果决定用tool提取相关字段并传递参数，再见tool的结果传递给LLM）
+### Simple tool execution
+![](attachments/Pasted%20image%2020260203054237.png)
+![](attachments/Pasted%20image%2020260203054330.png)
+## Examples
+![](attachments/Pasted%20image%2020260203060300.png)
+## Mutiple tools
